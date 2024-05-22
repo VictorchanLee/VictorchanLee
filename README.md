@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm [Your Name]. I work in IT service analytics, developing dashboards and insights. I have a background in sales and pre-sales for enterprise software solutions, and I love finding ways to make technology work better for businesses.
+Hi, I'm Victor. I work in IT service analytics, developing dashboards and insights. I have a background in sales and pre-sales for enterprise software solutions, and I love finding ways to make technology work better for businesses.
 
 ## Experience
 
